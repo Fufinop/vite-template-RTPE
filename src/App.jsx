@@ -1,5 +1,5 @@
 function App() {
-	return <div className='bg-zinc-200'></div>;
+	return <div className=''></div>;
 }
 
 export default App;
